@@ -1,0 +1,13 @@
+#paginaprincipal {
+    background-color: rgb(155, 153, 153);
+}
+
+#paginaamarela {
+    background-color: rgb(231, 231, 139);
+    color: rgb(246, 174, 41);
+}
+
+#paginaverde {
+    background-color: rgb(98, 180, 98);
+    color: rgb(16, 105, 16);
+}
